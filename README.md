@@ -1,4 +1,4 @@
-<header>
+# </The Great Story>
 
 <!--
   <<< Author notes: Course header >>>
